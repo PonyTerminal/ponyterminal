@@ -10,6 +10,22 @@ Follow us on Twitter at https://x.com/PonyTerminal
 
 Thanks!
 
+## Quick Start
+
+### Using npm/yarn
+
+1. Install dependencies:
+
+```bash
+yarn install
+```
+
+3. Run the server:
+
+```bash
+yarn dev
+```
+
 ## Contributing
 
 Please feel free to pull requests or log issues.
